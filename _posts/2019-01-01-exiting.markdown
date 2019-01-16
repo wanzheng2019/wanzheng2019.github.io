@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "跳动的文字"
+date:   2019-01-01 10:51:47 +0530
 categories: jekyll update
 img: image-4.gif
 categories: two
