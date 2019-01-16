@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Usage Guide"
+title:  "跳动的文字"
 categories: jekyll update
 img: image-2.gif
 categories: two
 ---
 
-Use the guide to prepare good looking posts! The theme has a sidebar in the post layout which consists of post image, recent posts and facebook like box. This can be extended by editing the ``sidebar.html`` in **_includes** folder.
+上下跳动的文字可以表达快乐的心情.
 
 ## Image
 
