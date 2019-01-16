@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "跳动的文字"
+date:   2019-01-01 10:51:47 +0530
+categories: jekyll update
+img: image-6.gif
+categories: two
+---
+.
+.     
+.     
+.
+.       
+兴奋而紧张的样子
+
+## Image
+
+- Use image of ratio 400x250 (800x500). 
+- Keep them inside ``images`` folder.
+- Mention image name in the front matter as shown below
+
+{% highlight yml %}
+---
+layout: post
+title:  "Some title"
+categories: some category
+img: image-name.jpg
+---
+{% endhighlight %}
