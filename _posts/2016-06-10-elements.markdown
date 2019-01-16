@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Elements"
+title:  "舞蹈的字体"
 categories: jekyll update
-img: image-4.png
+img: image-3.jif
 ---
-Below elements can be used just by adding certain classes to regular html elements. Since the theme is based on Bootstrap, you can use any bootstrap class in this theme.
+文字也会跳舞
 
 ## Buttons
 

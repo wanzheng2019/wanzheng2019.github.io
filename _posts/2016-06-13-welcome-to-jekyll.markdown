@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "会跳舞的字"
 date:   2019-01-01 10:51:47 +0530
 categories: jekyll update
 img: image-1.png
