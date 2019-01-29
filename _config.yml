@@ -6,25 +6,25 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 会跳舞的字
+title: 跳舞的字
 email: zheng.wan@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
- 会跳舞的字是一个让文字动起来的App
+ 跳舞的字是一个让文字动起来的App
   
   
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://wanzheng2019.github.io" # the base hostname & protocol for your site
+url: "http://www.dancingchar.com" # the base hostname & protocol for your site
 
 #sidebar
 default-image: webjeda-logo-big.jpg # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
 
 #footer
 
-built-by: 会跳舞的字
+built-by: 跳舞的字
 
 copyright:
-   name: 会跳舞的字
-   link: 'http://wanzheng2019.github.io/'
+   name: 跳舞的字
+   link: 'http://www.dancingchar.com'
 
 # Build settings
 markdown: kramdown
