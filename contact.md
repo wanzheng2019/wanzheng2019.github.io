@@ -4,7 +4,5 @@ title: Contact
 permalink: /contact/
 ---
 
+Please contact us by email zheng.wan@outlook.com
 
-Insert your contact details or a contact form here.
-
-Read [How to create a form in Jekyll site](http://blog.webjeda.com/jekyll-contact-form/){: target="_blank"} to implement using formspree.
